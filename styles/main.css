@@ -1,0 +1,38 @@
+.nav_bar {
+    border-bottom: 1px solid black;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#title_name {
+    font-size: 3.5rem;
+}
+
+.homepage_project_image {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+.project_card_name  {
+    text-align: center;
+}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
+h1 {
+  font-family: "Sono";
+}
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
